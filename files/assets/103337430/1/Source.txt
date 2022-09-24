@@ -1,0 +1,8 @@
+Raw HDRs:
+    https://polyhaven.com/a/spruit_sunrise
+
+Convert HDR to PNG:
+    https://onlineconvertfree.com/convert-format/hdr-to-png/
+
+Convert Panorama PNG to 6-face cube:
+    https://jaxry.github.io/panorama-to-cubemap/
